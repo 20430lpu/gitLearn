@@ -1,0 +1,8 @@
+if(sucesss)
+{
+print(yes)
+}
+else
+{
+print(no)
+}
