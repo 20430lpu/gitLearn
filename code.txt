@@ -4,5 +4,6 @@ print(yes)
 }
 else
 {
-print(no)
+print(why no)
+print(plz tell)
 }
