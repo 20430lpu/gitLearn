@@ -1,6 +1,7 @@
 if(sucesss)
 {
 print(yes)
+print(good)
 }
 else
 {
