@@ -10,3 +10,5 @@ print(why no)
 print(plz tell)
 print(develop)
 }
+if(develop)
+print(develop)
