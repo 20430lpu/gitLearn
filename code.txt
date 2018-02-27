@@ -2,6 +2,7 @@ if(sucesss)
 {
 print(yes)
 print(good)
+print(master)
 }
 else
 {
