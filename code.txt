@@ -4,6 +4,7 @@ print(yes)
 print(good)
 print(master)
 print(master new feature)
+print(master change in class)
 }
 else
 {
